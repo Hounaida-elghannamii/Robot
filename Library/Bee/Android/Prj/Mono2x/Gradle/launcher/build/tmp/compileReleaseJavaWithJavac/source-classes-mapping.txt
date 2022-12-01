@@ -1,0 +1,2 @@
+com/DefaultCompany/Myproject9/BuildConfig.java
+ com.DefaultCompany.Myproject9.BuildConfig
